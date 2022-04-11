@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">LoopGame</string>
+    <string name="nivel">Nível</string>
+
+    //Strings Tela Login
+    <string name="lembrar_senha">Lembrar minha senha</string>
+    <string name="esqueci_minha_senha">Esqueci minha senha</string>
+    <string name="botao_login">Login</string>
+    <string name="cadastrar_se">Cadastrar-se</string>
+
+    //Strings Telas: Cadastro, Enviar email e  Redefinir senha
+    <string name="nova_conta">Crie sua conta</string>
+    <string name="nome">Nome</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="confirmar_senha">Confirme sua senha</string>
+    <string name="regras_senha">A senha deve ter no mínimo 8 caracteres \n e atender aos seguintes requisitos: \n *Incluir números; \n *Letras maiúsculas e minúsculas; \n *Incluir um caractere especial.</string>
+    <string name="redefinir_senha">Redefinir senha</string>
+    <string name="codigo_validacao">Código de validação</string>
+    <string name="enviar_email">Será enviado um \n código para o seu \n email!</string>
+    <string name="enviar">Enviar</string>
+
+    //Strings Tela Bem Vindo
+    <string name="bem_vindo">Bem Vindo \n ao</string>
+    <string name="observacoes_para_o_teste">Para começar a jogar é necessário \n realizar um teste para \n direcionarmos você a um nível \n correspondente aos seus conhecimentos. Esse teste também \n servirá como base para medir a sua \n evolução durante o uso do LoopGame. \n Vamos começar?</string>
+    <string name="iniciar_teste_botao">Iniciar Teste</string>
+
+    //Strings Telas: Passou de nível, Concluiu Niveis e Comparativa
+    <string name="parabens">Parabéns!</string>
+    <string name="passou_nivel">Você passou de \n nível, agora você é \n nível:</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="teste_nivel">Teste de nível</string>
+    <string name="pontuacao">Pontuação:</string>
+    <string name="pontos2">1436</string>
+    <string name="x">X</string>
+    <string name="voltar">Voltar</string>
+    <string name="continuar">Continuar</string>
+    <string name="concluiu_todos_niveis">Você completou todos \n os níveis! \n Vamos realizar um novo \n teste de nível \n para medir seu desempenho?</string>
+    <string name="acertou_mais">Você acertou mais alternativas do que no primeiro teste!</string>
+    <string name="errou_mais">Você não acertou mais alternativas do que no primeiro teste!</string>
+    <string name="empate">Você acertou a mesma quantidade de alternativas nos dois testes!</string>
+    <string name="nao_passou_nivel">Você não passou de nível! \n Tente novamente!</string>
+
+    //Strings Telas Home
+    <string name="button_jogar">Jogar</string>
+    <string name="sair">Sair</string>
+    <string name="ranking">Ranking</string>
+    <string name="primeiro">1° Jogador</string>
+    <string name="segundo">2° Jogador</string>
+    <string name="terceiro">3° Jogador</string>
+    <string name="quarto">4° Jogador</string>
+    <string name="quinto">5° Jogador</string>
+    <string name="logo">logo</string>
+    <string name="avatar">avatar</string>
+    <string name="crown">crown</string>
+
+    //Strings das questões
+    <string name="primeira_pergunta">“Se João estuda, então Marcela chora”. A negação dessa proposição é logicamente equivalente a:</string>
+    <string name="segunda_pergunta">Sabe-se que a sentença “Se a camisa é branca, então a calça é branca” é FALSA e a sentença “Se o sapato é preto, então a camisa não é branca” é VERDADEIRA.</string>
+    <string name="terceira_pergunta">Considere a afirmação: “Se hoje é sábado, amanhã não trabalharei.” A negação dessa afirmação é:</string>
+    <string name="quarta_pergunta">Qual é o próximo termo da sequência numérica 3, 8, 5, 10, 7, 12, ___?</string>
+    <string name="quinta_pergunta">A negação de “hoje é segunda-feira e amanhã não choverá” é:</string>
+    <string name="sexta_pergunta">Qual a negação da proposição Algum funcionário da agência P do Banco do Brasil tem menos de 20 anos?</string>
+    <string name="setima_pergunta">Três de cada oito moradores de um edifício são do sexo feminino; se, nesse edifício, há doze moradores do sexo feminino, então o número de moradores do sexo masculino é igual a:</string>
+    <string name="oitava_pergunta">Carlos é filho de Mariana, que é filha de Adriana. Sabe-se ainda, que Pablo é avô de Mariana por parte de mãe. Portanto, NÃO é correto afirmar que:</string>
+    <string name="nona_pergunta">Numa rua, todas as casas, cujas famílias têm mais de três pessoas, são próprias. Sabe-se que João mora nessa rua, em uma casa própria. Diante do exposto, marque a alternativa correta:</string>
+    <string name="decima_pergunta">Esta é a decima pergunta?</string>
+
+    //Strings das dicas
+    <string name="dica_inicial">Neste campo você encontrará dicas sobre raciocínio lógico e lógica de programação.</string>
+    <string name="dica_1">Para estudar programação você deve gostar de resolver problemas, uma boa técnica é dividir o grande problema em pequenos para focar em cada problema de uma maneira melhor; você pode usar pseudocódigos em um programa ou em um artigo simples.</string>
+    <string name="dica_2">Em matemática e ciência da computação, um algoritmo é uma sequência finita de ações executáveis que visam obter uma solução para um determinado tipo de problema.</string>
+    <string name="dica_3">Lógica de programação é a organização coesa de uma sequência de instruções voltadas à resolução de um problema, ou à criação de um software ou aplicação.</string>
+
+</resources>

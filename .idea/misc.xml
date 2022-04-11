@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/drawable-v24/container_components.xml" value="0.1945" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/activity_exercicio_aula.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/activity_main2.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/activity_tela_home1.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/activity_teste_array.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/bem_vindo.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/enviar_email.xml" value="0.18" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/redefinir_senha.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/tela_bem_vindo.xml" value="0.22" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/tela_cadastro.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/tela_comparativa.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/tela_concluiu_niveis.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/tela_dicas.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/tela_enviar_email.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/tela_home.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/tela_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/tela_nivel_a.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/tela_nivel_b.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/tela_nivel_c.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/tela_passou_de_nivel.xml" value="0.16576086956521738" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/tela_passou_nivel.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/tela_perguntas.xml" value="0.22" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/tela_perguntas_nivel_a.xml" value="0.21" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/tela_perguntas_nivel_b.xml" value="0.1" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/tela_perguntas_nivel_c.xml" value="0.18" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/tela_redefinir_senha.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/tela_teste.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/catia/AndroidStudioProjects/LoopGame/app/src/main/res/layout/tela_teste_nivel.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

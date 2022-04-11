@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.loopgame">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LoopGame">
+        <activity
+            android:name=".TelaComparativa"
+            android:exported="false" />
+        <activity
+            android:name=".TelaConcluiuNiveis"
+            android:exported="false" />
+        <activity
+            android:name=".TelaDicas"
+            android:exported="false" />
+        <activity
+            android:name=".TelaPassouDeNivel"
+            android:exported="false" />
+        <activity
+            android:name=".TelaTesteNivel"
+            android:exported="false" />
+        <activity
+            android:name=".TelaPerguntas"
+            android:exported="false" />
+        <activity
+            android:name=".TelaRedefinirSenha"
+            android:exported="false" />
+        <activity
+            android:name=".TelaEnviarEmail"
+            android:exported="false" />
+        <activity
+            android:name=".TelaCadastro"
+            android:exported="false" />
+        <activity
+            android:name=".TelaBemVindo"
+            android:exported="false" />
+        <activity
+            android:name=".TelaHome"
+            android:exported="false" />
+        <activity
+            android:name=".TelaLogin"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

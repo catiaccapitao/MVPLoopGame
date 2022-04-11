@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="alternativasPrimeiraPergunta">
+        <item>Se João não estuda então Marcela não chora.</item>
+        <item>João não estuda ou Marcela não chora.</item>
+        <item>João não estuda e Marcela não chora.</item>
+        <item>João estuda e Marcela não chora.</item>
+        <item>João estuda ou Marcela não chora.</item>
+    </string-array>
+
+    <string-array name="alternativasSegundaPergunta">
+        <item>A camisa é branca, a calça não é branca e o sapato não é preto.</item>
+        <item>A camisa é branca, a calça não é branca e o sapato é preto.</item>
+        <item>A camisa não é branca, a calça é branca e o sapato não é preto.</item>
+        <item>A camisa não é branca, a calça é branca e o sapato é preto.</item>
+        <item>A camisa não é branca, a calça não é branca e o sapato é preto.</item>
+    </string-array>
+
+    <string-array name="alternativasTerceiraPergunta">
+        <item>Hoje é sábado e amanhã trabalharei.</item>
+        <item>Hoje não é sábado e amanhã trabalharei.</item>
+        <item>Hoje não é sábado ou amanhã trabalharei.</item>
+        <item>Se hoje não é sábado, amanhã trabalharei.</item>
+        <item>Se hoje não é sábado, amanhã não trabalharei.</item>
+    </string-array>
+
+    <string-array name="alternativasQuartaPergunta">
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="alternativasQuintaPergunta">
+        <item>Hoje não é segunda-feira e amanhã não choverá.</item>
+        <item>Hoje não é segunda-feira ou amanhã choverá.</item>
+        <item>Hoje não é segunda-feira então amanhã choverá.</item>
+        <item>Hoje não é segunda-feira nem amanhã choverá.</item>
+        <item>Hoje é segunda-feira ou amanhã choverá.</item>
+    </string-array>
+
+    <string-array name="alternativasSextaPergunta">
+        <item>Todo funcionário da agência P do BB tem menos de 20 anos.</item>
+        <item>Não existe funcionário da agência P do BB com 20 anos.</item>
+        <item>Algum funcionário da agência P do BB tem mais de 20 anos.</item>
+        <item>Nenhum funcionário da agência P do BB tem menos de 20 anos.</item>
+        <item>Nem todo funcionário da agência P do BB tem menos de 20 anos.</item>
+    </string-array>
+
+    <string-array name="alternativasSetimaPergunta">
+        <item>12</item>
+        <item>16</item>
+        <item>20</item>
+        <item>30</item>
+        <item>36</item>
+    </string-array>
+
+    <string-array name="alternativasOitavaPergunta">
+        <item>Carlos é neto de Adriana.</item>
+        <item>Pablo é avô de Mariana.</item>
+        <item>Mariana não é neta de Pablo.</item>
+        <item>Adriana é avó de Carlos.</item>
+        <item>Adriana tem pelo menos um neto.</item>
+    </string-array>
+
+    <string-array name="alternativasNonaPergunta">
+        <item>A família de João tem três pessoas.</item>
+        <item>João não mora sozinho.</item>
+        <item>A família de João tem menos de três pessoas.</item>
+        <item>A família de João tem mais de três pessoas.</item>
+        <item>Nada se pode afirmar sobre o n° de pessoas da família de João.</item>
+    </string-array>
+
+    <string-array name="dicas">
+        <item>Para estudar programação você deve gostar de resolver problemas, uma boa técnica é dividir o grande problema em pequenos para focar em cada problema de uma maneira melhor; você pode usar pseudocódigos em um programa ou em um artigo simples.</item>
+        <item>Em matemática e ciência da computação, um algoritmo é uma sequência finita de ações executáveis que visam obter uma solução para um determinado tipo de problema.</item>
+        <item>Lógica de programação é a organização coesa de uma sequência de instruções voltadas à resolução de um problema, ou à criação de um software ou aplicação.</item>
+
+    </string-array>
+
+
+</resources>
